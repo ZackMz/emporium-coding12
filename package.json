@@ -1,0 +1,15 @@
+{
+  "name": "project_emporium",
+  "version": "1.0.0",
+  "description": "#### Instructions : - Reproduire l'image en HTML/CSS - Au clique du bouton Connection un modal s'ouvre avec une petite navigation et un contenu qui change selon le choix   - Connexion **\"button de nav du modal\"**     - Email      - Mot de pass    - Inscription **\"button de nav du modal\"**     - Nom      - Prenom     - Age     - Email     - Mot de pass  - Au scroll la navbar se collapse - A côté du bouton **\"Connexion\"** deux carrés l'un noir et l'un black qui permetront de changer le theme du site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "@fortawesome/fontawesome-free": "^5.7.2"
+  }
+}
